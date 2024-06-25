@@ -1,1 +1,3 @@
-Demo : https://vv172000.github.io/Simple_Weather/
+# WeatherAPP
+Check out my Weather Forcast App build using html ,css and javascript.
+[Click here](https://weatherforcastdev.netlify.app/)
